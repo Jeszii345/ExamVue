@@ -1,6 +1,5 @@
 <template>
   <div class="max-w-xl mx-auto p-6 bg-white rounded-2xl shadow-lg mt-10">
-    <h2 class="text-xl font-bold mb-4 text-center">แบบทดสอบออนไลน์</h2>
 
     <div class="mb-4">
       <label class="block font-semibold mb-2">ชื่อ-สกุล</label>
