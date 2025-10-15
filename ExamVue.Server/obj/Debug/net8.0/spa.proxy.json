@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:60972",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\natua\\source\\repos\\ExamVue\\ExamVue.Server\\..\\examvue.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
